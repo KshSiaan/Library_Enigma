@@ -20,8 +20,10 @@ $ git clone https://github.com/KshSiaan/Library_Enigma.git
 # Go into the repository
 $ cd Library_Enigma
 
-#Start the server
+# Migrate the db : library_enigma
+$ php artisan migrate
 
+#Start the server
 $ php artisan serve
 
 # Install dependencies

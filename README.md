@@ -1,3 +1,46 @@
+![screenshot](https://i.ibb.co/tZgBBvq/Screenshot-2024-04-20-10-11-36.png)
+
+## Key Features
+
+* Laravel 11
+* Authentication and Management
+* Role and permission management
+* Reservation and order system
+* Secured and data accurate
+* Scalable
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/KshSiaan/Library_Enigma.git
+
+# Go into the repository
+$ cd Library_Enigma
+
+#Start the server
+
+$ php artisan serve
+
+# Install dependencies
+$ npm install
+
+# Run the Packages
+$ npm run dev
+
+# follow the port mentioned in `` php artisan serve ``
+```
+## Credits
+
+This software uses the following open source packages:
+
+- Laravel
+- Spatie
+- Tailwind CSS
+- Alpine.js
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
